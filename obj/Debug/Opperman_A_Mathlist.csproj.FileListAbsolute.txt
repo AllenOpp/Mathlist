@@ -1,0 +1,10 @@
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\bin\Debug\Opperman_A_Mathlist.exe.config
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\bin\Debug\Opperman_A_Mathlist.exe
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\bin\Debug\Opperman_A_Mathlist.pdb
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.csprojAssemblyReference.cache
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.Properties.Resources.resources
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.csproj.GenerateResource.cache
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.csproj.CoreCompileInputs.cache
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.exe
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.pdb
+C:\Users\Allen\source\repos\Opperman_A_Mathlist\obj\Debug\Opperman_A_Mathlist.Mathlist.resources
